@@ -1,5 +1,6 @@
 # Bias Amplification Tracer
-### Quantifying How AI Personas Amplify Bias in Sequential Text Processing
+### "Quantifying Ideological Bias Amplification and Sentiment Polarization in Sequential LLM Text Processing"
+
 
 ## Purpose
 AI models are increasingly used to summarize, rewrite, and redistribute content across news platforms, social media, and newsletters. But what happens to the original meaning when text passes through multiple AI processing stages? This project answers that question with measurable, reproducible data.
