@@ -24,11 +24,8 @@ Even a completely neutral historical fact produces wildly different sentiment sc
 ![Bias Amplification Chart](bias_amplification.png)
 
 ## Conclusions
-- Neutral AI prompting alone introduces measurable positive sentiment drift
-- Political personas swing sentiment in predictable but significant ways
-- Tabloid rewriting consistently produces the most negative sentiment
-- Sequential AI processing of the same content produces compounding bias amplification
-- Prompt style is a primary driver of bias in LLM outputs, independent of factual content
+"Sequential LLM processing transformed a completely neutral 0.00 sentiment baseline into swings ranging from -0.04 to 0.40 across four distinct personas, demonstrating that prompt style alone drives measurable ideological bias independent of factual content. The neutral persona surprisingly introduced the largest positive drift at 0.40, while the tabloid persona produced the only negative score, revealing that even objective AI framing distorts meaning before political bias is applied. These findings have direct implications for AI content pipelines, proving that multi-stage LLM processing poses a quantifiable and compounding risk of bias amplification at scale."
+
 
 ## How To Run
 Install dependencies:
